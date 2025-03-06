@@ -35,3 +35,10 @@ A Retrieval-Augmented Generation (RAG) system for querying medical literature us
 ```bash
 git clone https://github.com/yourusername/medical-rag-system.git
 cd medical-rag-system
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Start Qdrant Service
+docker run -p 6333:6333 -p 6334:6334 qdrant/qdrant
+
