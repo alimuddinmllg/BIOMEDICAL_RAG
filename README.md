@@ -42,3 +42,6 @@ pip install -r requirements.txt
 3. Start Qdrant Service
 docker run -p 6333:6333 -p 6334:6334 qdrant/qdrant
 
+4. run main_file.py
+streamlit run main_file.py
+
