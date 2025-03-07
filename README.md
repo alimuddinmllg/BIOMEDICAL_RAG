@@ -1,6 +1,6 @@
 # Medical Document Q&A System with RAG 🏥📄
 
-![System Architecture](https://via.placeholder.com/800x400.png?text=Medical+Document+Q%26A+System+Architecture)
+![System Architecture](https://via.placeholder.com/Screenshot 2025-03-07 at 09.35.19.png)
 
 A Retrieval-Augmented Generation (RAG) system for querying medical literature using PubMedBERT embeddings and BioMistral-7B LLM.
 
