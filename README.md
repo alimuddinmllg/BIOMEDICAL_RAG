@@ -34,8 +34,7 @@ A Retrieval-Augmented Generation (RAG) system for querying medical literature us
 
 1. **Clone Repository**
 ```bash
-git clone https://github.com/alimuddinmllg/medical-rag-system.git
-cd medical-rag-system
+git clone [https://github.com/alimuddinmllg/medical-rag-system.git](https://github.com/alimuddinmllg/BIOMEDICAL_RAG.git)
 ```
 
 2. Install Dependencies
